@@ -7,7 +7,8 @@
 </head>
 <body>
 <?php 
-	require "/Includes/navbar.php"; 
+	echo "I Want TO DIEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
+	include "Includes/navbar.php"; 
 	echo "hello world";
 ?>
 
