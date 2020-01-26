@@ -12,10 +12,14 @@
     </div>
     <div id = "form">
       <form>
-        <label>Username: </label><input type = "text" name = "username"/>
-        <br>
-        <label>Password: </label><input type = "password" name = "password"/>
-        <br>
+        <div id = "labels">
+          <label>Username: </label>
+          <label>Password: </label>
+        </div>
+        <div id = "inputs">
+          <input type = "text" name = "username"/>
+          <input type = "password" name = "password"/>
+        </div>
         <input type = "submit"/>
       </form>
     </div>
