@@ -7,7 +7,6 @@
 </head>
 <body>
 <?php 
-	echo "I Want TO DIEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII";
 	include "Includes/navbar.php"; 
 	echo "hello world";
 ?>
