@@ -12,15 +12,17 @@
     </div>
     <div id = "form">
       <form>
-        <div id = "labels">
-          <label>Username: </label>
-          <br>
-          <label>Password: </label>
-        </div>
-        <div id = "inputs">
-          <input type = "text" name = "username"/>
-          <br>
-          <input type = "password" name = "password"/>
+        <div class = "flex-container">
+          <div id = "labels">
+            <label>Username: </label>
+            <br>
+            <label>Password: </label>
+          </div>
+          <div id = "inputs">
+            <input type = "text" name = "username"/>
+            <br>
+            <input type = "password" name = "password"/>
+          </div>
         </div>
         <input type = "submit"/>
       </form>
