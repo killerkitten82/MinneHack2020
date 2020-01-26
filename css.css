@@ -12,4 +12,15 @@
     color: red;
     padding: 4px;
     font-family: Arial;
+    text-align: center;
+}
+
+.tbody {
+    display: flex;
+    flex-direction: column;
+}
+
+.trow {
+    display: flex;
+    flex-direction: row;
 }

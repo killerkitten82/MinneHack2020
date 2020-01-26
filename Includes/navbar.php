@@ -1,4 +1,4 @@
-<div class="navbar_container">
+<div class="navbar_container trow">
 	<div class="navbar_section">
 		Home
 	</div>
