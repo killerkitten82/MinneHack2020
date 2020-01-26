@@ -1,0 +1,21 @@
+#LoginBox {
+  margin: auto;
+  width: 33%;
+  border: 3px solid red;
+  /* padding: 10px; */
+}
+
+#header {
+  text-align: center;
+  font-size: 24px;
+  border-bottom: 3px solid red;
+}
+
+#header, #form {
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
