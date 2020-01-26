@@ -2,14 +2,12 @@
 <!doctype html>
 <head>
 	<title>Home</title>
-	<link rel="stylesheet" href="dans_css.css">
-	<link rel="stylesheet" href="css.css">
+	<?php include "includes.php"; ?>
 </head>
 <body>
-<?php 
-	include "Includes/navbar.php"; 
-	echo "hello world";
-?>
+	<?php include "Includes/navbar.php"; ?>
 
+
+	<?php include "Includes/footer.php"; ?>
 </body>
 </html>
