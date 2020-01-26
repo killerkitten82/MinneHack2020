@@ -6,6 +6,9 @@
 </head>
 
 <body>
+<?php 
+	echo "<h1>REEEEEEEEEEEEEEEE</h1>";
+	?>
   <div id = "LoginBox">
     <div id = "header">
       <b>Login Page</b>
