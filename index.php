@@ -6,8 +6,10 @@
 	<link rel="stylesheet" href="css.css">
 </head>
 <body>
-<?php require "/includes/navbar.php"; 
-echo "hello world";?>
+<?php 
+	//require "/includes/navbar.php"; 
+	echo "hello world";
+?>
 
 </body>
 </html>
