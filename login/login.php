@@ -16,7 +16,7 @@
         <br>
         <label>Password: </label><input type = "password" name = "password"/>
         <br>
-        <input type = "submit">Submit</input>
+        <input type = "submit"/>
       </form>
     </div>
   </div>
