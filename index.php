@@ -7,8 +7,7 @@
 </head>
 <body>
 <?php 
-	echo __DIR__;
-	//require "includes/navbar.php"; 
+	require "/Includes/navbar.php"; 
 	echo "hello world";
 ?>
 
