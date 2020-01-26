@@ -3,7 +3,7 @@
 	<title>Home</title>
 </head>
 <body>
-<p>Goodbye world and Hello Hell!</p>
+<?php include "navbar.php"; ?>
 
 </body>
 </html>
